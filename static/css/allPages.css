@@ -38,17 +38,12 @@ a:hover {
     color: black;
 }
 
-.images {
-    width: 50%;
-    height: auto;
-}
-
 img {
     overflow: hidden;
     position: relative;
     float: left;
-    width:  100px;
-    height: 100px;
+    width:  25%;
+    height: auto;
 }
 
 p {
