@@ -45,10 +45,14 @@ a:hover {
 
 img {
     overflow: hidden;
-    /*position: relative;*/
-    float: left;
-    width:  50%;
+    /*position: relative;
+    float: left;*/
+    width:  100%;
     height: auto;
+}
+
+.images {
+    display: flex;
 }
 
 p {
