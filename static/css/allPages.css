@@ -17,22 +17,28 @@ title {
     background-color: rgb(161, 255, 161);
 }
 
-ul {
-    list-style-type: square;
-}
-
 ol {
     list-style-type: upper-alpha;
 }
 
+a {
+    color: white;
+}
+
 ul {
+    list-style-type: square;
     display: flex;
-    
+    justify-content: space-around;
     background-color: red;
 }
 
 a:hover {
     list-style-type: none;
     color: black;
+}
+
+.images {
+    width: 50%;
+    height: auto;
 }
 
