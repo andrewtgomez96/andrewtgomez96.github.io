@@ -25,3 +25,13 @@ ol {
     list-style-type: upper-alpha;
 }
 
+nav {
+    display: flex;
+    background-color: red;
+}
+
+a:hover {
+    list-style-type: none;
+    color: black;
+}
+
