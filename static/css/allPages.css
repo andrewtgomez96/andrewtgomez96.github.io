@@ -4,7 +4,7 @@ html, body {
     color: white;
 }
 
-title {
+.name {
     font-family: 'Open Sans', sans-serif;
     font-size: 2em;
 }
@@ -42,7 +42,7 @@ img {
     overflow: hidden;
     position: relative;
     float: left;
-    width:  25%;
+    width:  50%;
     height: auto;
 }
 
