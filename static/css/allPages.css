@@ -1,0 +1,18 @@
+html, body {
+    height: 100%;
+    background-color: rgba(8, 59, 59, 0.993);
+    color: white;
+}
+
+title {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2em;
+}
+
+.firstParagraph {
+    background-color: rgb(255, 166, 166);
+}
+
+.secondParagraph {
+    background-color: rgb(161, 255, 161);
+}
