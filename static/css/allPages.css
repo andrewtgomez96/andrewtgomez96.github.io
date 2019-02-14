@@ -41,6 +41,9 @@ a:hover {
 .images {
     width: 50%;
     height: auto;
+}
+
+img {
     overflow: hidden;
 }
 
