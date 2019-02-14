@@ -26,6 +26,10 @@ a {
     text-decoration: none;
 }
 
+nav {
+    border: 1em solid whitesmoke;
+}
+
 ul {
     list-style-type: square;
     display: flex;
