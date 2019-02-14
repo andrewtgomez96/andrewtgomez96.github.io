@@ -27,7 +27,8 @@ a {
 }
 
 nav {
-    border: 1em solid whitesmoke;
+    border-top: 1em solid whitesmoke;
+    border-bottom: 1em solid whitesmoke;
 }
 
 ul {
