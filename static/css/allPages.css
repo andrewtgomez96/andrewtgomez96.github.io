@@ -23,6 +23,7 @@ ol {
 
 a {
     color: white;
+    text-decoration: none;
 }
 
 ul {
@@ -40,5 +41,6 @@ a:hover {
 .images {
     width: 50%;
     height: auto;
+    overflow: hidden;
 }
 
